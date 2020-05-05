@@ -1,2 +1,3 @@
-# automatons
-Autômatos, estudos e afins  
+# Autômatos
+
+Estudo de autômatos finitos, linguagens formais e afins...  
